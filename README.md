@@ -5,7 +5,7 @@
 
 - 👨‍💻 Find out more about me at [https://josephkav.io](https://josephkav.io)
 
-- 📫 How to reach me **Joseph@kav.sh**
+- 📫 Reach me at **Joseph@kav.sh**
 
 - 📄 Know about my experiences [https://josephkav.io/media/resume.pdf](https://josephkav.io/media/resume.pdf)
 

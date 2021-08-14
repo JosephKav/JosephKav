@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Kavanagh</h1>
-<h3 align="center">A passionate DevOps Engineer from London</h3>
+<h3 align="center">A passionate Engineer from London</h3>
 
 - 🌱 I’m currently most interested in **GoLang**
 

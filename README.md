@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Joseph Kavanagh</h1>
 <h3 align="center">A passionate Engineer from London</h3>
 
-- 🌱 I’m currently most interested in **GoLang**
-
 - 👨‍💻 Find out more about me at [https://josephkav.io](https://josephkav.io)
 
 - 📫 Reach me at **Joseph@kav.io**
 
-- 📄 Know about my experiences [https://josephkav.io/media/resume.pdf](https://josephkav.io/media/resume.pdf)
+- 📄 Know about my experiences [https://resume.josephkav.io/josephkav/cv](https://resume.josephkav.io/josephkav/cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
